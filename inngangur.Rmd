@@ -1,0 +1,40 @@
+# Inngangur
+
+Bergmálsgögn eru grunnurinn undir mat Hafró á nokkrum fiskistofnum við
+landið, sérstaklega síld, loðnu og kolmunna. Bergmál er einnig notaðar
+við mælingar á úthafskarfa og einnig ljósátu í seinni tíð. Það er því
+afar mikilvægt að gagnasöfnunin og úrvinnslan sé gerð á ábyrgan hátt,
+sem tryggja gott gagnaflæði til þeirra stofnstærðarútreikninga sem
+fylgja. Þær vinnureglur sem verður lýst eiga að tryggja að
+bergmálsgögnin og sú úrvinnsla sem notuð er, séu samkvæmt vel reyndum
+og öruggum aðferðum, þannig að stofnmat verði sem best.
+
+Þessi vinnulýsing nær yfir þau störf og ábyrgð sem hvílir á
+leiðangursstjóra og rannsóknarfólki í sambandi við framkvæmd
+bergmálsmælinga í leiðangri. Þessi lýsing nær til þess undirbúnings
+sem nauðsynlegur er fyrir leiðangur, framkvæmd leiðangursins og til
+afhendingar gagna af viðunandi gæðum í land. Ýmsar lýsingar á
+stillingum mælis ganga út frá því að unnið sé með EK60 bergmálsmæla og
+að úrvinnsla gagnanna sé gerð í LSSS forritinu frá Marec og norsku
+Hafrannsóknastofnuninni. Ekki verður hér tíundað hvernig reikna skal
+lífþunga eða stofnstærð út frá bergmálsgögnum //_nema etv gert grein
+fyrir því í viðauka_//.
+
+Handbókin er byggð upp þannig að í kafla 2, 3 og 4 eru stuttlega rakin
+helstu atriði sem hafa þarf í huga við undirbúning leiðangurs,
+framkvæmd hans og frágang að honum loknum. Í fimmta kafla eru
+tíundaðir nánar ýmsir þættir sem huga þarf að til þess söfnun
+bergmálsgagna, úrvinnsla þeirra og niðurstöður verði sem
+áreiðanlegastar. Í 6. kafla er ýmislegt smálegt um bergmálsmælanna og
+kvörðun þeirra //_en þó engan vegin tæmandi. – þessum kafla mætti ef
+til vill sleppa alveg í þessari handbók_//. Í viðauka A er fjallað um
+hraða og gleypni hljóðs í sjó, með sérstöku tilliti til stillingar
+bergmálsmælanna //_og í viðaukum B-Ö verður fjallað um allan skrattann
+í viðbót_//.
+
+Mælt er með eftirfarandi ítarefni:
+
+-   Sígild skólabók Simmonds & MacLennan: Fisheries Acoustics [@simmonds2005]
+-   Kvörðunarhandbók ICES í CRR-röðinni [@demer2015]
+-  Nýleg grein Rolf og félag um flokkun í endurvarpshópa með LSSS [@korneliussen2017]
+

@@ -1,0 +1,56 @@
+# Sondugluggi í LSSS
+
+Til að hagnýta sér CTD-glugga sem LSSS-forritið býður uppá til að sýna
+t.d. hitaprófíl við hlið bergmálsrits um leið og bergmál er túlkað
+þarf að:
+
+- Gæta þarf að því að röð á breytum í cnv-skránum uppfylli formkröfur
+  LSSS. Sjá eftirfarandi línur úr haus cnv-skrár úr A10-2017 sem koma
+  fram í CTD-glugga í LSSS:
+
+```
+** Stn: 264
+** Lat: 65 55.01
+** Lon: 28 11.64
+** Depth: 528
+** Name:
+** Title: A10-2017 #1
+* System UTC = Jul 04 2017 11:05:20
+# nquan = 12
+# nvalues = 500                         
+# units = specified
+# name 0 = scan: Scan Count
+# name 1 = prDM: Pressure, Digiquartz [db]
+# name 2 = t090C: Temperature [ITS-90, deg C]
+# name 3 = c0S/m: Conductivity [S/m]
+# name 4 = sigma-é00: Density [sigma-theta, Kg/m^3]
+# name 5 = sal00: Salinity, Practical [PSU]
+# name 6 = svCM: Sound Velocity [Chen-Millero, m/s]
+# name 7 = potemp090C: Potential Temperature [ITS-90, deg C]
+# name 8 = depSM: Depth [salt water, m]
+# name 9 = flECO-AFL: Fluorescence, WET Labs ECO-AFL/FL [mg/m^3]
+# name 10 = turbWETntu0: Turbidity, WET Labs ECO [NTU]
+# name 11 = flag: flag
+```
+
+- Afrita sonduskrár (cnv skrár úr 'avg' möppu í sondu-leiðangursmöppu)
+  í CTD-möppu undir LSSS-leiðangursmöppu (yfirleitt í `C:\LSSS_DATA` á
+  túlkunarvél). Hefðbundin afritun af C-drifi sondutölvu yfir í
+  möppuna `S:\data\pc\<leiðangursauðkenni>` (heimasvæði sondu á
+  net-drifi á Árna-neti). Notandi `bi500` afritar svo þaðan á
+  túlkunarvél. Hægt að einfalda með því að shjéra möppum af sondutölvu
+  eða finna einhverja aðra hentugri lausn, ...
+
+- Endurskíra cnv-skrárnar, skipta út venjubundnu `a`-i Árna eða `b`-i
+  á Bjarna og setja í staðinn strenginn `sta`, eiga að heita
+  `sta????.cnv`.
+
+Hægt er að breyta röð á breytum í textaúttaki með því að fara í 'SBE
+Data Processing' á sondutölvu, velja `Run: 1: Data Conversion`, velja
+flipann `Data Setup`, þar undir `Select Output Variables`, og breyta
+breyturöðinni eitthvað í líkingu við það sem sýnt er hér að ofan (ath
+nemar í gangi geta verið mismunandi). Líklegt er að röðin á fyrstu 3-4
+sé mikilvægust, ... .
+
+Samráð við haffræði um högun á þessu öllu saman, ... .
+

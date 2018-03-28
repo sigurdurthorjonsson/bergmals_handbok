@@ -1,0 +1,120 @@
+# Framkvæmd
+
+## Tilgangur 
+
+Hér er lýst helstu atriðum sem hafa þarf í huga við bergmálsmælingar. Sérfræðingur bergmálsmælinga / leiðangursstjóri ber ábyrgð á að farið sé eftir þessari vinnulýsingu. 
+
+## Framkvæmdalýsing
+
+- Leiðangursstjóri setur upp leiðangurslínur sem gera mögulegt að búa
+  til þéttleikadreifingu þeirra tegunda mæla skal. Sé um samvinnu
+  fleiri skipa að ræða verður að meta hvort ástæða sé til
+  millikvörðunar.  Leiðangursstjóri og umsjónarmaður koma gagnasöfnun
+  af stað. Sé þess þörf m.t.t. úrvinnslu (t.d. í LSSS) eru mörk
+  rannsóknasvæðis ákveðin og tegundir sem túlka skal tilgreindar.
+
+- Tækjavakt skal stöðugt sjá til þess að gagnasöfnunin gangi eðlilega
+  fyrir sig. Athuga skal reglulega að nóg diskapláss sé á safntölvu og
+  hvort þörf sé á að flytja eldri gögn yfir á annað drif. Taka skal
+  öryggisafrit af hrágögnum a.m.k. einu sinni á sólarhring.
+
+- Nauðsynlegt er að færa góða tækjadagbók. Sýnatökur og aðra viðburði
+  skal skrá í tækjadagbók. Þrátt fyrir alla tölvuvæðingu þykir enn
+  hentugast að handskrifa færslur tækjadagbókar á þar til gerð
+  eyðublöð.. Þetta hefur reynst afar gagnlegt og flýtir fyrir hjá
+  leiðangursstjóra og öðrum að fá snöggt yfirlit yfir það sem hefur
+  gerst. Dæmi um eyðublað fyrir tækjadagbók er í fylgiskjölum (dagbók
+  tækjavaktar.xls).
+
+- Leiðangursstjóri og tækjavakt skal sjá til þess að sýnataka með
+  flotvörpu eða öðru veiðafæri gefi nægar upplýsingar um tegundir og
+  líffræði til þess að túlka megi bergmálsgögnin á öruggan
+  hátt. Leiðangursstjóri sér til þess að gögnin séu yfirfarin og
+  túlkuð, helst a.m.k. einu sinni á sólarhring og borin saman við
+  sýni. Mikilvægt er að þessi vinna sé gerð í samvinnu vísinda- og
+  tækjavaktar.
+
+- Leiðangursstjóri skal sjá til þess að öryggisafrit af gögnum
+  leiðangursins, þ.e. hrágögnum, túlkun, sýnatöku og öðru sem þurfa
+  þykir, sé tekið einu sinni á sólarhring meðan á leiðangri stendur.
+
+### Aðstæður við gagnasöfnun m.t.t. vinds, sjógangs, suðs og loftbóludempunar
+
+Veðurfar getur haft afgerandi áhrif á mælingarnar. Sé vindur og sjór
+talsverður getur loftbólumyndun vegna öldusláttar og hreyfinga
+skipsins valdið því að næmni mælisins minnki umtalsvert. Engar
+þumalputtareglur eru til um það hversu mikið þetta er, en alveg má
+búast við að mæligildin geti orðið a.m.k. helmingi lægri en við góðar
+aðstæður. Einnig geta komið fram sterkir “púlsar” eða strik á myndina
+þegar skipið skellur í ölduna. Til þessara atriða þarf að taka tillit,
+bæði við söfnun gagna og í úrvinnslu. Með því að lækka fellikjölinn í
+Árna Friðrikssyni (allt að 3 metra niður fyrir skipskjöl) er hægt að
+minnka veðurtruflanir umtalsvert.
+
+### Hentugar stillingar á mælitækjum
+
+Fyrir utan það að sjá til þess að kvörðunarstuðlar séu réttir þarf að
+ákveða aðrar stillingar mælisins, til dæmis með tilliti til dýpissviðs
+söfnunar, tímalengdar milli sendinga, merkjaþröskuldar, hljóðhraða
+o.s.frv. Hentugar stillingar á mælitækjum eru mismunandi eftir því
+hvar og hvað er verið að mæla. Sé mælt á grunnu vatni er mögulegt að
+hafa mjög stutt á milli sendinga, en þá þarf einnig að sjá til þess að
+dýpissvið söfnunar sé í samræmi við það. Annað dæmi er að jafnvel þó
+stilling merkjaþröskuldar hafi ekki áhrif á hrágögnin sem vistuð eru,
+þá hefur hann áhrif á það sem sést í rauntíma á dýptarmælisskjáinn og
+getur þannig haft áhrif á ákvörðun um sýnatöku.
+
+### Vöktun gagnasöfnunar
+
+Sá sem er á tækjavakt hverju sinni ber ábyrgð á því að gagnasöfnun
+gangi snurðulaust fyrir sig. Nauðsynlegt er á tækjavakt að skoða
+nokkuð reglulega hvort gagnasöfnun sé ekki í fullum gangi. Á EK60 má
+sjá hvort gagnasöfnun sé hafin þegar “record off” verður “record on”
+og fer úr svörtu letri yfir í rautt á neðstu slánni í
+dýptarmælisglugganum. Gagnasöfnun getur stöðvast, “frosið”, án þess að
+“record on” breytist. Hins vegar er teljari á slánni sem sýnir hvort
+skráning er stöðug eða ekki. Stafirnir eru hins vegar frekar
+smáir. Sendingar mælis geta jafnvel stöðvast fyrirvaralaust í þessu
+“frosti”, sem sést ef til vill ekki umsvifalaust nema vaktmaður sé vel
+vakandi. Við óvænta stöðvun mælis af þessu tagi þarf að bregðast við
+sem skjótast. Felst það m.a. í að skrá hvað vegmælirinn sýnir svo hægt
+sé að slá þá tölu inn við endurræsingu að viðbættri siglingu á meðan
+skráning misfórst. Þetta er mikilvægt vegna úrvinnslu í LSSS, en
+skiptir ekki máli í úrvinnslu EV. Stundum dugir að stöðva sendingu og
+ræsa aftur, en oft þarf að endurræsa dýptarmælisforritið
+(ER60). Vissara getur verið að taka allan straum af sendum (grænn rofi
+ofan við skjá) í u.þ.b. 5 sekúndur áður en ER60 er ræst á ný. Ef
+endurræsa þarf mæli er rétt að athuga hvort stillingar hafi haldið
+sér, svo sem kvörðunarstuðlar (“Gain” og “SAcorrection”) í
+“Transceiver menu”.
+
+Heppilegt er að sá hljóðhraði sem bergmálsmælarnir eru stilltir á, sé
+í samræmi við það meðalgildi hljóðhraða sem búast má við að sé í
+vatnssúlunni frá yfirborði og að neðri mörkum söfnunardýpis. Rétt er
+að athuga það eftir hverja sondu sem tekin er, þannig að hljóðhraði sé
+sem réttastur. Sé mismunur á notuðum hljóðhraða í mæli og raunhraða
+meiri en ±5-10 m/sek er rétt að uppfæra þá stillingu. Hún mun einnig
+hafa áhrif á stillingu á gleypni hljóðsins. Einnig er ágæt regla að
+stöðva skráningu augnablik eftir hljóðhraðabreytingu, þannig að um
+leið og nýr hljóðhraði er virkur myndast ný hráskrá
+bergmálsgagna. Ítarlegri upplýsingar um hljóðhraða og gleypni
+(“absorbtion”) í sjó má finna í viðauka bergmálsmælinga (sjá
+UPP_005). Hægt er að lagfæra gögn m.t.t. hljóðhraða og kvörðunarstuðla
+í úrvinnslu, en það einfaldar hana til muna að sjá til þess að þessir
+þættir séu sem réttastir í gagnasöfnuninni. Í hvert skipti sem
+hljóðhraða er breytt þarf að skrá það í tækjadagbók sem haldin er
+allan leiðangurinn, ásamt tíma og staðsetningu. Annað sem tækjavakt
+þarf að hafa auga fyrir, er hvort falskur botn (svo kallaður
+botndraugur) komi fram á því dýptarsviði sem safnað er á. Falskur botn
+kemur fram þegar samspil botndýpis og sendingarhraða (ping rate) er
+þannig að botnendurvarp úr fyrri sendingu kemur fram í þeirri næstu á
+eftir. Yfirleitt má leysa þetta með því að breyta sendingarhraða,
+hægja eða herða á eftir þörfum.
+
+Oft er það á hendi vakthafandi á tækjum að ákveða hvort ástæða sé til
+þess að taka sýni úr lóðningum sem á vegi verða. Sýnatökur og aðra
+viðburði ætti að skrá í tækjadagbók. Það verður seint ofmetið að færa
+góða tækjadagbók. Þrátt fyrir alla tölvuvæðingu þykir enn hentugast að
+handskrifa færslur tækjadagbókar á þar til gerð eyðublöð,. Þetta hefur
+reynst afar gagnlegt og flýtir fyrir hjá leiðangursstjóra og öðrum að
+fá snöggt yfirlit yfir það sem hefur gerst.

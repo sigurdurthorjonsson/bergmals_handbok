@@ -1,0 +1,19 @@
+---
+title: "Bergmálshandbók"
+author: "Páll Reynisson og félagar á Hafró"
+documentclass: "book"
+bibliography: [heimildir.bib]
+biblio-style: apalike
+link-citations: yes
+site: bookdown::bookdown_site
+output: 
+  html_document: 
+    fig_caption: yes
+    split_by: none
+    theme: sandstone
+    toc: yes
+---
+
+# Formáli {-}
+
+Fyrsta tilraun til að setja upp handbók í `bookdown`, í þessu tilfelli um bergmálsmælingar á Hafró.

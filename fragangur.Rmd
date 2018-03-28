@@ -1,0 +1,31 @@
+# Frágangur
+
+## Tilgangur 
+
+Hér er lýst frágangi og vistun gagna við lok leiðangurs
+bergmálsmælinga. Sérfræðingur bergmálsmælinga / leiðangursstjóri ber
+ábyrgð á að farið sé eftir þessu verklagi.
+
+## Frágangur 
+
+- Þegar í höfn er komið skal stöðva sendingar á bergmálsmælum og
+  slökkva á safntölvu.
+
+- Að loknum leiðangri skal leiðangursstjóri sjá til þess að afrit sé
+  tekið af öllum bergmálsgögnum (hrágögnum og túlkun þeirra) og koma í
+  örugga vörslu til “ábyrgðarmanns”.
+
+- Leiðangurstjóri og aðrir vísindamenn á Hafrannsóknastofnun skulu sjá
+  til þess að fljótlega eftir leiðangur séu gögnin, a.m.k. hrágögn,
+  aðgengileg í gagnagrunninum (u1/bergmal/leiðangurseinkenni, dæmi:
+  A201401 eða B201210).
+
+### Vistun gagna
+
+Í lok hvers leiðangurs er mikilvægt að afrita öll bergmálsgögn, bæði
+hrágögn og túlkun þeirra. Leiðangursstjóri skal sjá til þess að það sé
+gert. Þessi gögn skal afhenda "ábyrgðarmanni" (tæknimaður á
+tæknideild) sem yfirfer þau og sér til þess að allar nauðsynlegar
+skrár séu til staðar og kemur þeim í gagnagrunn
+Hafrannsóknastofnunar. Geyma þarf sértstakt aukaafrit af túlkuðum
+gögnum eins og þau eru notuð í stofnstærðarmati.

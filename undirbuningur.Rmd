@@ -1,0 +1,67 @@
+# Undirbúningur
+
+## Tilgangur 
+
+Hér er lýst undirbúningi fyrir leiðangra bergmálsmælinga. Sérfræðingur
+bergmálsmælinga / leiðangursstjóri ber ábyrgð á að farið sé eftir
+þessu verklagi, til að tryggja að söfnun, úrvinnsla og niðurstöður
+verði sem áreiðanlegastar.
+
+## Undirbúningur fyrir bergmálsmælingu
+
+- Leiðangurstjóri lætur umsjónarmann tækja vita með góðum fyrirvara
+  hvaða mæla skal nota í leiðangrinum. (Látið verður nægja hér í
+  framhaldinu að tala um umsjónarmann). Umsjónarmaður er að öllu jöfnu
+  starfsmaður á Tæknideild. Ekki er endilega víst að umsjónarmaður sem
+  tryggir að mælitæki séu í lagi fyrir leiðangur verði þátttakandi í
+  þeim leiðangri.
+
+- Umsjónarmaðurinn er ábyrgur fyrir bergmálsmælunum um borð. Hann þarf
+  að hafa yfirlit um ástand mælanna og fullvissa sig um að þeir séu
+  tilbúnir til notkunar og í góðu ástandi. Séu einhverjir meinbugir á
+  því skal hann strax hefja lagfæringar á mælunum.
+
+- Umsjónarmaður metur hvort ástæða sé til kvörðunar bergmálsmæla. Sé
+  það tilfellið skal hann láta leiðangurstjóra vita af því. Það er á
+  hans ábyrgð að meta hvort einhverra skoðunarmælinga eða kvörðunar
+  mælanna sé þörf. Kvörðun bergmálsmælanna ætti að öllu jöfnu að
+  framkvæma í byrjun leiðangurs og alltaf ef einhverjar breytingar eða
+  viðgerðir hafa verið gerðar á tækjunum. Alltaf skal gera kvörðun ef
+  minnsti grunur er um að næmni mælitækjanna hafi breyst.
+
+- Sé kvörðunar talin þörf skal leiðangurstjóri í samráði við
+  umsjónarmann koma sér saman um hentugan kvörðunarstað og áætla
+  nægilegan tíma til þess. Þetta felur venjulega í sér að leggjast
+  þarf fyrir akkeri í skjólsælum firði. Kvörðunin getur tekið hálfan
+  til einn dag.
+
+- Umsjónarmaður sér til þess að réttir kvörðunarstuðlar séu í
+  mælinum. Kvörðunarstuðlar fyrir hvert skip eru aðgengilegir í skjali
+  u1/bergmal/kvordun_Stillingar. Séu þessar upplýsingar ekki tiltækar,
+  skal hafa samband við umsjónarmann kvörðunar (Pál Reynisson). Einnig
+  skal athuga hvort klukka tölvunnar sem stjórnar EK60 og skráir frá
+  honum sé rétt, því allar tímasetningar bergmálsgagnanna tengjast
+  þeirri klukku. Heppilegast er að samstilla hana við GPS-klukku. Í
+  samráði við leiðangurstjóra þarf að ákveða aðrar stillingar
+  mælisins, t.d. dýpissvið söfnunar, tímalengd milli sendinga,
+  merkjaþröskuld o.s.frv.
+
+## Mannskapur - þjálfun og reynsla
+
+Meta þarf þær lágmarkskröfur sem gera þarf til rannsóknamanna á
+tækjavakt. Það getur verið svolítið breytilegt eftir leiðöngrum. Að
+minnsta kosti þarf einn vanur maður að vera til staðar, sem getur
+leiðbeint þeim sem óvanari eru.
+
+## Ástand mælitækja og eiginleikar og ástand skips
+
+Varðandi ástand mælitækja og skips er rétt að benda á að slipptaka og
+þar með hreinsun botnstykkisflata er varla nema annað til þriðja hvert
+ár. Sé langt liðið frá hreinsun er viðbúið að gróður hafi sest á
+botnstykkisfleti og umgjörð þeirra. Mikill vöxtur hrúðurkarla er
+afleitur og minnkar í fyrsta lagi næmni mælanna (getur verið 10% eða
+meira) og í öðru lagi versnar hlutfall merkis og suðs umtalsvert þar
+sem loftbólu- og iðustreymi á siglingu við botnstykkin
+eykst. Sérstaklega getur þetta haft áhrif í þeim tilfellum þegar nota
+þarf lágan merkjaþröskuld eins og við bergmálsmælingar á ljósátu eða
+ef mæla skal fisk á miklu dýpi.

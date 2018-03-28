@@ -1,0 +1,22 @@
+book_filename: "bergmals_handbok"
+language:
+  label:
+    fig: 'Mynd '
+    tab: 'Tafla '
+    eq: 'Jafna '
+    thm: 'Regla '
+    def: 'Skilgreining '
+    contents: 'Efnisyfirlit'
+  ui:
+    chapter_name: "Kafli "
+delete_merged_file: true
+rmd_files: ["index.Rmd",
+  "inngangur.Rmd",
+  "undirbuningur.Rmd",
+  "framkvaemd.Rmd",
+  "fragangur.Rmd",
+  "vidaukar.Rmd",
+  "vidaukiA.Rmd",
+  "vidaukiB.Rmd",
+  "vidaukiC.Rmd",
+  "heimildir.Rmd"]
